@@ -31,7 +31,7 @@ import com.example.ipopa1963.weatherfrog.data.WeatherContract.WeatherEntry;
  */
 public class FetchWeatherTask extends AsyncTask<String, Void, String[]> {
     private final String LOG_TAG = FetchWeatherTask.class.getSimpleName();
-
+//just a new weird git feature
     private ArrayAdapter<String> mForecastAdapter;
     private final Context mContext;
 
