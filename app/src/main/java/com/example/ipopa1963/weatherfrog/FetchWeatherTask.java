@@ -1,4 +1,4 @@
-package com.example.ipopa1963.weatherfrog.data;
+package com.example.ipopa1963.weatherfrog;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -9,8 +9,6 @@ import android.preference.PreferenceManager;
 import android.text.format.Time;
 import android.util.Log;
 import android.widget.ArrayAdapter;
-
-import com.example.ipopa1963.weatherfrog.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;
